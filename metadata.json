@@ -1,0 +1,5 @@
+{
+  "name": "Smart E-commerce Manager",
+  "description": "A high-end AI-powered mobile application for managing an e-commerce business.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
